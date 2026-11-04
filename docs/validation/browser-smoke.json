@@ -1,0 +1,49 @@
+{
+  "version": "0.1.2",
+  "passed": 10,
+  "results": [
+    {
+      "name": "true 3D GLB loaded and rendered",
+      "passed": true
+    },
+    {
+      "name": "visible character is raycastable and empty canvas is not",
+      "passed": true
+    },
+    {
+      "name": "clicks trigger anger through actual pointer events",
+      "passed": true
+    },
+    {
+      "name": "mouse strokes trigger happy emotion",
+      "passed": true
+    },
+    {
+      "name": "grab / drag / release settles on floor",
+      "passed": true
+    },
+    {
+      "name": "sleeping character wakes when clicked",
+      "passed": true
+    },
+    {
+      "name": "settings persist after reload",
+      "passed": true
+    },
+    {
+      "name": "alpha silhouette excludes background and includes character",
+      "passed": true
+    },
+    {
+      "name": "360 degree preview keeps the model rendered",
+      "passed": true
+    },
+    {
+      "name": "small viewport remains usable",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "panel_open_close_iterations": 20,
+  "native_windows_tested": false
+}

@@ -1,0 +1,8 @@
+{
+  "version": "0.1.1",
+  "release_custom_protocol": true,
+  "compiled_executable_contains_entry_and_glb": true,
+  "missing_feature_build_rejected": true,
+  "dist_browser_without_vite": "passed",
+  "windows_runtime_tested": false
+}

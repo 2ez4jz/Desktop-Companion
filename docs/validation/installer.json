@@ -1,0 +1,12 @@
+{
+  "version": "0.1.2",
+  "bytes": 2812722,
+  "sha256": "f29525add3e9fd182cc06deb53df7aafddb14d0f3a84be7c73bf32af165dddb5",
+  "native_release_compiled": true,
+  "windows_runtime_tested": false,
+  "node_tests": 15,
+  "rust_hit_tests": 3,
+  "browser_operations": 10,
+  "browser_panel_open_close_iterations": 20,
+  "production_dist": "passed"
+}
